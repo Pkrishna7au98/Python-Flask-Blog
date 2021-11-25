@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/blogging",
+        "prod_uri": "mysql://root:@localhost/blogging",
+        "fb_url": "facebook.com/krishnaprajapat",
+        "tw_url": "twitter.com/krishnaprajapat",
+        "gh_url": "github.com/krishnaprajapat",
+        "gmail-user": "kp779095@gmail.com",
+        "gmail-pass": "Yt@astro2020",
+        "blogger-name":"SanatanBlogs",
+        "max_posts_home" : 3 ,
+        "admin_user" : "admin@gmail.com",
+        "admin_pass": "system",
+        "upload_location": "C:\\Users\\2016m\\Desktop\\Programming\\Flask Tutorials\\static\\uploads",
+        "no_of_attempts" : 3
+        
+    }
+}
+
+  
